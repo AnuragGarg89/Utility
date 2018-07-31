@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ScreenshotUtility" duration-ms="23282" started-at="2018-07-20T05:09:44Z" finished-at="2018-07-20T05:10:08Z">
+    <groups>
+    </groups>
+    <test name="capturescreen" duration-ms="23282" started-at="2018-07-20T05:09:44Z" finished-at="2018-07-20T05:10:08Z">
+      <class name="screenshot.Login">
+        <test-method status="PASS" signature="loginToOEM()[pri:0, instance:screenshot.Login@2ed94a8b]" name="loginToOEM" duration-ms="23258" started-at="2018-07-20T10:39:44Z" finished-at="2018-07-20T10:40:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToOEM -->
+      </class> <!-- screenshot.Login -->
+    </test> <!-- capturescreen -->
+  </suite> <!-- ScreenshotUtility -->
+</testng-results>

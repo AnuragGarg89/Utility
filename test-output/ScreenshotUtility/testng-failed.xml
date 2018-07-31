@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ScreenshotUtility]">
+  <test thread-count="5" name="capturescreen(failed)">
+    <classes>
+      <class name="screenshot.Login">
+        <methods>
+          <include name="loginToOEM"/>
+        </methods>
+      </class> <!-- screenshot.Login -->
+    </classes>
+  </test> <!-- capturescreen(failed) -->
+</suite> <!-- Failed suite [ScreenshotUtility] -->
